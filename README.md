@@ -39,6 +39,13 @@ Below is a link to the wireframes which we have drawn to demonstrate the navigat
 Below is a link to the entity relationship diagram which we have drawn to model our data structure and flow.
 https://lucid.app/lucidchart/82f852d0-e45e-4d1e-a4db-a74145eb6bdb/edit?viewport_loc=51%2C135%2C1661%2C1093%2C0_0&invitationId=inv_82990059-fc05-4ed0-814f-2c1c42f2a621
 
+## DEMO
+
+
+https://github.com/imalicolak/Jam/assets/17754111/d81a50b1-d3c1-49f9-991f-745520669664
+
+
+
 ## DevTeam
 
 Sean Munjal - https://github.com/TheForeverOptimist
